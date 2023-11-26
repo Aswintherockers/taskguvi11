@@ -27,7 +27,12 @@ This project demonstrates a simple web authentication system with user registrat
 - Profile page displaying user details from MongoDB.
 - Use of jQuery AJAX for seamless user experience.
 - Session management using browser local storage and Redis.
-
+## Steps
+ - xammp server to be installed necessary
+ - you created or a folder to be copy to move the file on the xampp server file click on the xampp server file click on that file "htdocs" folder name to put on that file to paste
+ - xampp server should be on the apache server and sql server start immediately is important*
+ - go to the chrome and click on the tab put localhost/main folder name/particular name
+ - for  example http://localhost/guvi/index.php
 ## Getting Started
  - Xampp server is important on we work on php my admin
 ### Prerequisites
